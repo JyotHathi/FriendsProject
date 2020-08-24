@@ -1,0 +1,18 @@
+C:\Users\jyoth\source\repos\MEFGi Path Finder\MEFGi Path Finder\bin\Debug\MEFGi Path Finder.exe.config
+C:\Users\jyoth\source\repos\MEFGi Path Finder\MEFGi Path Finder\bin\Debug\MEFGi Path Finder.exe
+C:\Users\jyoth\source\repos\MEFGi Path Finder\MEFGi Path Finder\bin\Debug\MEFGi Path Finder.pdb
+C:\Users\jyoth\source\repos\MEFGi Path Finder\MEFGi Path Finder\obj\Debug\MEFGi_Path_Finder.Form1.resources
+C:\Users\jyoth\source\repos\MEFGi Path Finder\MEFGi Path Finder\obj\Debug\MEFGi_Path_Finder.Properties.Resources.resources
+C:\Users\jyoth\source\repos\MEFGi Path Finder\MEFGi Path Finder\obj\Debug\MEFGi Path Finder.csproj.GenerateResource.cache
+C:\Users\jyoth\source\repos\MEFGi Path Finder\MEFGi Path Finder\obj\Debug\MEFGi Path Finder.exe
+C:\Users\jyoth\source\repos\MEFGi Path Finder\MEFGi Path Finder\obj\Debug\MEFGi Path Finder.pdb
+C:\Users\jyoth\source\repos\MEFGi Path Finder\MEFGi Path Finder\obj\Debug\MEFGi_Path_Finder.Login.resources
+C:\Users\jyoth\source\repos\MEFGi Path Finder\MEFGi Path Finder\obj\Debug\MEFGi Path Finder.csprojAssemblyReference.cache
+C:\Users\jyoth\source\repos\MEFGi Path Finder\MEFGi Path Finder\obj\Debug\MEFGi_Path_Finder.Sign_Up.resources
+C:\Users\jyoth\source\repos\MEFGi Path Finder\MEFGi Path Finder\obj\Debug\MEFGi_Path_Finder.ChangePass.resources
+C:\Users\jyoth\source\repos\MEFGi Path Finder\MEFGi Path Finder\obj\Debug\MEFGi_Path_Finder.Notification.resources
+C:\Users\jyoth\source\repos\MEFGi Path Finder\MEFGi Path Finder\obj\Debug\MEFGi_Path_Finder.ALocation.resources
+C:\Users\jyoth\source\repos\MEFGi Path Finder\MEFGi Path Finder\obj\Debug\MEFGi_Path_Finder.MView.resources
+C:\Users\jyoth\source\repos\MEFGi Path Finder\MEFGi Path Finder\obj\Debug\MEFGi_Path_Finder.Rplaces.resources
+C:\Users\jyoth\source\repos\MEFGi Path Finder\MEFGi Path Finder\obj\Debug\MEFGi_Path_Finder.Bookmarks.resources
+C:\Users\jyoth\source\repos\MEFGi Path Finder\MEFGi Path Finder\obj\Debug\MEFGi_Path_Finder.Lmarker.resources
